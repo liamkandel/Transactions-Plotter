@@ -16,3 +16,4 @@ iqplot
 Example: ```C:\Users\You\Folder\transactions.csv```
 6. Run the python file with the path as your first argument
 Example: ```python plot_trasnactions C:\Users\You\Folder\transactions.csv```
+![]https://github.com/liamkandel/Transactions-Plotter/blob/main/gif.gif
