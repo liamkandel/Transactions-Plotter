@@ -14,6 +14,11 @@ iqplot
 4. Download in 'csv' format
 5. Copy the path to the csv file 
 Example: ```C:\Users\You\Folder\transactions.csv```
-6. Run the python file with the path as your first argument
-Example: ```python plot_trasnactions C:\Users\You\Folder\transactions.csv```
-![]https://github.com/liamkandel/Transactions-Plotter/blob/main/gif.gif
+6. Run the python file with the csv file path as your first argument
+Example: ```python plot_transactions C:\Users\You\Folder\transactions.csv```
+
+![](https://github.com/liamkandel/Transactions-Plotter/blob/main/gif.gif)
+
+## Uses
+Use the hovertool to detail a transaction that you'd like to view.  
+Locate transaction outliers that you'd like to know about  
