@@ -22,3 +22,6 @@ Example: ```python plot_transactions C:\Users\You\Folder\transactions.csv```
 ## Uses
 Use the hovertool to detail a transaction that you'd like to view.  
 Locate transaction outliers that you'd like to know about  
+
+## Known bugs
+Month order on the plot's x-axis is alphabetical instead of chronological when csv file contains more than one year
